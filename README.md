@@ -1,4 +1,4 @@
-# JPMC-WeatherAppCodingAssessment
+# JPMC-WeatherAppCodingChallenge
 Weather App  Show Current Location Weather or Search for Any Location
 
 
